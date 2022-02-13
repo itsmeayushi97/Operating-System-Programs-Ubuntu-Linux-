@@ -6,3 +6,8 @@ Contents: -
 3. Vi Editor and Filter Commands
 4. Compilation of C Programs
 5. Process Creation
+6. System Admin Commands
+7. Crontab Simple TasK Automation
+8. Shell Script
+9. Overalay Concepts
+10. 
