@@ -12,3 +12,5 @@ Contents: -
 9. Process Creation
 10. Overlay Concepts
 11. Pipe Interprocess Communication 
+12. a. Shared Memory and Message Queue
+    b. Semaphores
